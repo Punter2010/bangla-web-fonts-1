@@ -50,6 +50,10 @@
                     "content": "https://maateen.me/static/img/maateen-cover.jpg"
                 }
             ]
+        },
+        "edit-link": {
+            "base": "https://github.com/maateen/bangla-web-fonts/edit/master/",
+            "label": "Edit This Page"
         }
     }
 }
