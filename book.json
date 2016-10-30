@@ -1,1 +1,53 @@
-{}
+{
+    "plugins": [
+        "prism",
+        "canonical-link",
+        "hide-published-with",
+        "sharing",
+        "sitemap",
+        "back-to-top-button",
+        "meta",
+        "anchors"
+    ],
+    "pluginsConfig": {
+        "prism": {
+            "css": [
+                "prismjs/themes/prism-solarizedlight.css"
+            ]
+        },
+        "canonical-link": {
+            "baseURL": "https://python.maateen.me"
+        },
+        "sharing": {
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "weibo": false,
+            "instapaper": false,
+            "vk": false
+        },
+        "sitemap": {
+            "hostname": "https://fonts.maateen.me/"
+        },
+        "meta": {
+            "data": [
+                {
+                    "name": "keywords",
+                    "content": "SolaimanLipi, SiyamRupali, Kalpurush"
+                },
+                {
+                    "property": "fb:app_id",
+                    "content": "117117302053445"
+                },
+                {
+                    "property": "og:type",
+                    "content": "article"
+                },
+                {
+                    "property": "og:image",
+                    "content": "https://maateen.me/static/img/maateen-cover.jpg"
+                }
+            ]
+        }
+    }
+}
