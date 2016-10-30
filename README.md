@@ -14,7 +14,7 @@ The aim of this project is making the web more beautiful, fast, and open through
 
 ## AdorshoLipi
 
-![AdorshoLipi](images/adorsholipi.gif)
+![AdorshoLipi](images/adorsholipi.jpg)
 
 Font Source: cgimagine
 
@@ -54,7 +54,7 @@ p {
 
 ## AponaLohit
 
-![AponaLohit](images/aponalohit.gif)
+![AponaLohit](images/aponalohit.jpg)
 
 AponaLohit is basically the Lohit font from Ekushey with additional hinting for better look on screen. This is some wthat Unicode equivalent of popular Boishakhi font. TrueType hintings have been initiated by Ershadul Haq and later improved by Alamigr Mohammed.
 
@@ -94,7 +94,7 @@ p {
 
 ## Bangla
 
-![Bangla](images/bangla.gif)
+![Bangla](images/bangla.jpg)
 
 Font Source: PfEd
 
@@ -134,7 +134,7 @@ p {
 
 ## BenSen
 
-![BenSen](images/BenSen.gif)
+![BenSen](images/bensen.jpg)
 
 Developer: [Subrata Sen](http://www.subratasen.com/)
 
@@ -174,7 +174,7 @@ p {
 
 ## EkusheyLohit
 
-![EkusheyLohit](images/ekushey-lohit.gif)
+![EkusheyLohit](images/ekushey-lohit.jpg)
 
 Font Source: [Free Bangla Font Project](http://www.nongnu.org/freebangfont/)
 
@@ -214,7 +214,7 @@ p {
 
 ## Kalpurush
 
-![Kalpurush](images/kalpurush.gif)
+![Kalpurush](images/kalpurush.jpg)
 
 Font designed by - Md. Tanbin Islam Siyam. Developed Under Avro Free Bangla Font Project. Source: [OmicronLab](http://www.omicronlab.com/)
 
@@ -254,7 +254,7 @@ p {
 
 ## Mukti
 
-![Mukti](images/muktinarrow.gif)
+![Mukti](images/mukti.jpg)
 
 Font Source: [Free Bangla Font Project](http://www.nongnu.org/freebangfont/)
 
@@ -294,7 +294,7 @@ p {
 
 ## SiyamRupali
 
-![SiyamRupali](images/siyam-rupali.gif)
+![SiyamRupali](images/siyam-rupali.jpg)
 
 Font Hinted by - Md. Tanbin Islam Siyam. Modified version of Rupali Bangla font. Developed Under Avro Free Bangla Font Project. Source: [OmicronLab](http://www.omicronlab.com/)
 
@@ -334,7 +334,7 @@ p {
 
 ## SolaimanLipi
 
-![SolaimanLipi](images/solaimanlipi.gif)
+![SolaimanLipi](images/solaimanlipi.jpg)
 
 Font Source: [http://ekushey.org/](http://ekushey.org/)
 
