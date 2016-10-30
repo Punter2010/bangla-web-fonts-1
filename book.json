@@ -9,7 +9,6 @@
         "meta",
         "anchors",
         "edit-link",
-        "create-issue",
         "forkmegithub"
     ],
     "pluginsConfig": {
