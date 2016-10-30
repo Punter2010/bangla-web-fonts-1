@@ -32,7 +32,7 @@ To embed your selected fonts into a webpage, copy this code into the <head> of y
 
 ```css
 <style>
-IMPORT url('http://fonts.maateen.me/adorsho-lipi/font.css');
+@import url('http://fonts.maateen.me/adorsho-lipi/font.css');
 </style>
 ```
 
@@ -72,7 +72,7 @@ To embed your selected fonts into a webpage, copy this code into the <head> of y
 
 ```css
 <style>
-IMPORT url('http://fonts.maateen.me/apona-lohit/font.css');
+@import url('http://fonts.maateen.me/apona-lohit/font.css');
 </style>
 ```
 
@@ -112,7 +112,7 @@ To embed your selected fonts into a webpage, copy this code into the <head> of y
 
 ```css
 <style>
-IMPORT url('http://fonts.maateen.me/bangla/font.css');
+@import url('http://fonts.maateen.me/bangla/font.css');
 </style>
 ```
 
@@ -152,7 +152,7 @@ To embed your selected fonts into a webpage, copy this code into the <head> of y
 
 ```css
 <style>
-IMPORT url('http://fonts.maateen.me/bensen/font.css');
+@import url('http://fonts.maateen.me/bensen/font.css');
 </style>
 ```
 
@@ -192,7 +192,7 @@ To embed your selected fonts into a webpage, copy this code into the <head> of y
 
 ```css
 <style>
-IMPORT url('http://fonts.maateen.me/ekushey-lohit/font.css');
+@import url('http://fonts.maateen.me/ekushey-lohit/font.css');
 </style>
 ```
 
@@ -232,7 +232,7 @@ To embed your selected fonts into a webpage, copy this code into the <head> of y
 
 ```css
 <style>
-IMPORT url('http://fonts.maateen.me/kalpurush/font.css');
+@import url('http://fonts.maateen.me/kalpurush/font.css');
 </style>
 ```
 
@@ -272,7 +272,7 @@ To embed your selected fonts into a webpage, copy this code into the <head> of y
 
 ```css
 <style>
-IMPORT url('http://fonts.maateen.me/mukti/font.css');
+@import url('http://fonts.maateen.me/mukti/font.css');
 </style>
 ```
 
@@ -312,7 +312,7 @@ To embed your selected fonts into a webpage, copy this code into the <head> of y
 
 ```css
 <style>
-IMPORT url('http://fonts.maateen.me/siyam-rupali/font.css');
+@import url('http://fonts.maateen.me/siyam-rupali/font.css');
 </style>
 ```
 
@@ -352,7 +352,7 @@ To embed your selected fonts into a webpage, copy this code into the <head> of y
 
 ```css
 <style>
-IMPORT url('http://fonts.maateen.me/solaiman-lipi/font.css');
+@import url('http://fonts.maateen.me/solaiman-lipi/font.css');
 </style>
 ```
 
