@@ -94,7 +94,7 @@ p {
 
 ## Bangla
 
-![Bangla](images/bangla.jpg)
+![Bangla](images/bangla.gif)
 
 Font Source: PfEd
 
@@ -176,7 +176,7 @@ p {
 
 ![EkusheyLohit](images/ekushey-lohit.jpg)
 
-Font Source: [Free Bangla Font Project](http://www.nongnu.org/freebangfont/)
+Glyphs of Ekushey Lohit font has been taken from Lohit Bengali designed by Automatic Control Equipments. Unicode conversion was done by Ekushey. The font is distributed under SIL Open Font License,  v1.0. Font Source: [Free Bangla Font Project](http://www.nongnu.org/freebangfont/)
 
 ### Embed Font
 
@@ -256,7 +256,7 @@ p {
 
 ![Mukti](images/mukti.jpg)
 
-Font Source: [Free Bangla Font Project](http://www.nongnu.org/freebangfont/)
+Developed by Dr. Anirban Mitra. Font Source: [Free Bangla Font Project](http://www.nongnu.org/freebangfont/)
 
 ### Embed Font
 
@@ -336,7 +336,7 @@ p {
 
 ![SolaimanLipi](images/solaimanlipi.jpg)
 
-Font Source: [http://ekushey.org/](http://ekushey.org/)
+SolaimanLipi is designed by Solaiman Karim. Later, Saif Hassan updated the font. The font is distributed under GPL v2. Font Source: [http://ekushey.org/](http://ekushey.org/)
 
 ### Embed Font
 
