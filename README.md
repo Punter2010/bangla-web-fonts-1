@@ -1,16 +1,6 @@
 # Bangla Web Fonts
 
-The aim of this project is making the web more beautiful, fast, and open through great Bengali typography with one of the fastest **Global CDN**. Currently, the following fonts are supported (though more fonts are coming soon):
-
-- [AdorshoLipi](#adorsholipi)
-- [AponaLohit](#aponalohit)
-- [Bangla](#bangla)
-- [BenSen](#bensen)
-- [EkusheyLohit](#ekusheylohit)
-- [Kalpurush](#kalpurush)
-- [Mukti](#mukti)
-- [SiyamRupali](#siyamrupali)
-- [SolaimanLipi](#solaimanlipi)
+The aim of this project is making the web more beautiful, fast, and open through great Bengali typography with one of the fastest **Global CDN**. Currently, the following fonts are supported (though more fonts are coming soon).
 
 ## AdorshoLipi
 
