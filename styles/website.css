@@ -1,1 +1,10 @@
 /* CSS for website */
+
+.markdown-section p {
+    text-align: justify;
+}
+
+.markdown-section p img {
+    display: block;
+    margin: 0 auto;
+}
