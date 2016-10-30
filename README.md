@@ -25,14 +25,14 @@ To embed your selected fonts into a webpage, copy this code into the <head> of y
 ##### STANDARD
 
 ```css
-<link href="http://fonts.maateen.me/adorsho-lipi/font.css" rel="stylesheet">
+<link href="https://fonts.maateen.me/adorsho-lipi/font.css" rel="stylesheet">
 ```
 
 ##### Or, IMPORT in CSS
 
 ```css
 <style>
-@import url('http://fonts.maateen.me/adorsho-lipi/font.css');
+@import url('https://fonts.maateen.me/adorsho-lipi/font.css');
 </style>
 ```
 
@@ -65,14 +65,14 @@ To embed your selected fonts into a webpage, copy this code into the <head> of y
 ##### STANDARD
 
 ```css
-<link href="http://fonts.maateen.me/apona-lohit/font.css" rel="stylesheet">
+<link href="https://fonts.maateen.me/apona-lohit/font.css" rel="stylesheet">
 ```
 
 ##### Or, IMPORT in CSS
 
 ```css
 <style>
-@import url('http://fonts.maateen.me/apona-lohit/font.css');
+@import url('https://fonts.maateen.me/apona-lohit/font.css');
 </style>
 ```
 
@@ -105,14 +105,14 @@ To embed your selected fonts into a webpage, copy this code into the <head> of y
 ##### STANDARD
 
 ```css
-<link href="http://fonts.maateen.me/bangla/font.css" rel="stylesheet">
+<link href="https://fonts.maateen.me/bangla/font.css" rel="stylesheet">
 ```
 
 ##### Or, IMPORT in CSS
 
 ```css
 <style>
-@import url('http://fonts.maateen.me/bangla/font.css');
+@import url('https://fonts.maateen.me/bangla/font.css');
 </style>
 ```
 
@@ -145,14 +145,14 @@ To embed your selected fonts into a webpage, copy this code into the <head> of y
 ##### STANDARD
 
 ```css
-<link href="http://fonts.maateen.me/bensen/font.css" rel="stylesheet">
+<link href="https://fonts.maateen.me/bensen/font.css" rel="stylesheet">
 ```
 
 ##### Or, IMPORT in CSS
 
 ```css
 <style>
-@import url('http://fonts.maateen.me/bensen/font.css');
+@import url('https://fonts.maateen.me/bensen/font.css');
 </style>
 ```
 
@@ -185,14 +185,14 @@ To embed your selected fonts into a webpage, copy this code into the <head> of y
 ##### STANDARD
 
 ```css
-<link href="http://fonts.maateen.me/ekushey-lohit/font.css" rel="stylesheet">
+<link href="https://fonts.maateen.me/ekushey-lohit/font.css" rel="stylesheet">
 ```
 
 ##### Or, IMPORT in CSS
 
 ```css
 <style>
-@import url('http://fonts.maateen.me/ekushey-lohit/font.css');
+@import url('https://fonts.maateen.me/ekushey-lohit/font.css');
 </style>
 ```
 
@@ -225,14 +225,14 @@ To embed your selected fonts into a webpage, copy this code into the <head> of y
 ##### STANDARD
 
 ```css
-<link href="http://fonts.maateen.me/kalpurush/font.css" rel="stylesheet">
+<link href="https://fonts.maateen.me/kalpurush/font.css" rel="stylesheet">
 ```
 
 ##### Or, IMPORT in CSS
 
 ```css
 <style>
-@import url('http://fonts.maateen.me/kalpurush/font.css');
+@import url('https://fonts.maateen.me/kalpurush/font.css');
 </style>
 ```
 
@@ -265,14 +265,14 @@ To embed your selected fonts into a webpage, copy this code into the <head> of y
 ##### STANDARD
 
 ```css
-<link href="http://fonts.maateen.me/mukti/font.css" rel="stylesheet">
+<link href="https://fonts.maateen.me/mukti/font.css" rel="stylesheet">
 ```
 
 ##### Or, IMPORT in CSS
 
 ```css
 <style>
-@import url('http://fonts.maateen.me/mukti/font.css');
+@import url('https://fonts.maateen.me/mukti/font.css');
 </style>
 ```
 
@@ -305,14 +305,14 @@ To embed your selected fonts into a webpage, copy this code into the <head> of y
 ##### STANDARD
 
 ```css
-<link href="http://fonts.maateen.me/siyam-rupali/font.css" rel="stylesheet">
+<link href="https://fonts.maateen.me/siyam-rupali/font.css" rel="stylesheet">
 ```
 
 ##### Or, IMPORT in CSS
 
 ```css
 <style>
-@import url('http://fonts.maateen.me/siyam-rupali/font.css');
+@import url('https://fonts.maateen.me/siyam-rupali/font.css');
 </style>
 ```
 
@@ -345,14 +345,14 @@ To embed your selected fonts into a webpage, copy this code into the <head> of y
 ##### STANDARD
 
 ```css
-<link href="http://fonts.maateen.me/solaiman-lipi/font.css" rel="stylesheet">
+<link href="https://fonts.maateen.me/solaiman-lipi/font.css" rel="stylesheet">
 ```
 
 ##### Or, IMPORT in CSS
 
 ```css
 <style>
-@import url('http://fonts.maateen.me/solaiman-lipi/font.css');
+@import url('https://fonts.maateen.me/solaiman-lipi/font.css');
 </style>
 ```
 
@@ -380,6 +380,6 @@ CSS rules for fonts written by [Maksudur Rahman Maateen](https://maateen.me/)
 
 Core `ttf` Fonts have been developed by various developers, known developers have been stated above already. We show respect and bow to them.
 
-Project HomePage: [http://fonts.maateen.me/](http://fonts.maateen.me/)
+Project HomePage: [https://fonts.maateen.me/](https://fonts.maateen.me/)
 
 Issue Tracker: https://github.com/maateen/bangla-web-fonts/issues
