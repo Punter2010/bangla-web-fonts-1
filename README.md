@@ -2,15 +2,15 @@
 
 The aim of this project is making the web more beautiful, fast, and open through great Bengali typography with one of the fastest **Global CDN**. Currently, the following fonts are supported (though more fonts are coming soon):
 
-- AdorshoLipi
-- AponaLohit
-- Bangla
-- BenSen
-- EkusheyLohit
-- Kalpurush
-- Mukti
-- SiyamRupali
-- SolaimanLipi
+- [AdorshoLipi](#adorsholipi)
+- [AponaLohit](#aponalohit)
+- [Bangla](#bangla)
+- [BenSen](#bensen)
+- [EkusheyLohit](#ekusheylohit)
+- [Kalpurush](#kalpurush)
+- [Mukti](#mukti)
+- [SiyamRupali](#siyamrupali)
+- [SolaimanLipi](#solaimanlipi)
 
 ## AdorshoLipi
 
@@ -54,6 +54,8 @@ p {
 
 ## AponaLohit
 
+![AponaLohit](images/aponalohit.gif)
+
 AponaLohit is basically the Lohit font from Ekushey with additional hinting for better look on screen. This is some wthat Unicode equivalent of popular Boishakhi font. TrueType hintings have been initiated by Ershadul Haq and later improved by Alamigr Mohammed.
 
 ### Embed Font
@@ -91,6 +93,8 @@ p {
 ```
 
 ## Bangla
+
+![Bangla](images/bangla.gif)
 
 Font Source: PfEd
 
@@ -130,6 +134,8 @@ p {
 
 ## BenSen
 
+![BenSen](images/BenSen.gif)
+
 Developer: [Subrata Sen](http://www.subratasen.com/)
 
 ### Embed Font
@@ -167,6 +173,8 @@ p {
 ```
 
 ## EkusheyLohit
+
+![EkusheyLohit](images/ekushey-lohit.gif)
 
 Font Source: [Free Bangla Font Project](http://www.nongnu.org/freebangfont/)
 
@@ -206,6 +214,8 @@ p {
 
 ## Kalpurush
 
+![Kalpurush](images/kalpurush.gif)
+
 Font designed by - Md. Tanbin Islam Siyam. Developed Under Avro Free Bangla Font Project. Source: [OmicronLab](http://www.omicronlab.com/)
 
 ### Embed Font
@@ -243,6 +253,8 @@ p {
 ```
 
 ## Mukti
+
+![Mukti](images/muktinarrow.gif)
 
 Font Source: [Free Bangla Font Project](http://www.nongnu.org/freebangfont/)
 
@@ -282,6 +294,8 @@ p {
 
 ## SiyamRupali
 
+![SiyamRupali](images/siyam-rupali.gif)
+
 Font Hinted by - Md. Tanbin Islam Siyam. Modified version of Rupali Bangla font. Developed Under Avro Free Bangla Font Project. Source: [OmicronLab](http://www.omicronlab.com/)
 
 ### Embed Font
@@ -319,6 +333,8 @@ p {
 ```
 
 ## SolaimanLipi
+
+![SolaimanLipi](images/solaimanlipi.gif)
 
 Font Source: [http://ekushey.org/](http://ekushey.org/)
 
