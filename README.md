@@ -28,7 +28,7 @@ To embed your selected fonts into a webpage, copy this code into the <head> of y
 <link href="http://fonts.maateen.me/adorsho-lipi/font.css" rel="stylesheet">
 ```
 
-#### IMPORT
+#### Or, IMPORT in CSS
 
 ```css
 <style>
@@ -68,7 +68,7 @@ To embed your selected fonts into a webpage, copy this code into the <head> of y
 <link href="http://fonts.maateen.me/apona-lohit/font.css" rel="stylesheet">
 ```
 
-#### IMPORT
+#### Or, IMPORT in CSS
 
 ```css
 <style>
@@ -108,7 +108,7 @@ To embed your selected fonts into a webpage, copy this code into the <head> of y
 <link href="http://fonts.maateen.me/bangla/font.css" rel="stylesheet">
 ```
 
-#### IMPORT
+#### Or, IMPORT in CSS
 
 ```css
 <style>
@@ -148,7 +148,7 @@ To embed your selected fonts into a webpage, copy this code into the <head> of y
 <link href="http://fonts.maateen.me/bensen/font.css" rel="stylesheet">
 ```
 
-#### IMPORT
+#### Or, IMPORT in CSS
 
 ```css
 <style>
@@ -188,7 +188,7 @@ To embed your selected fonts into a webpage, copy this code into the <head> of y
 <link href="http://fonts.maateen.me/ekushey-lohit/font.css" rel="stylesheet">
 ```
 
-#### IMPORT
+#### Or, IMPORT in CSS
 
 ```css
 <style>
@@ -228,7 +228,7 @@ To embed your selected fonts into a webpage, copy this code into the <head> of y
 <link href="http://fonts.maateen.me/kalpurush/font.css" rel="stylesheet">
 ```
 
-#### IMPORT
+#### Or, IMPORT in CSS
 
 ```css
 <style>
@@ -268,7 +268,7 @@ To embed your selected fonts into a webpage, copy this code into the <head> of y
 <link href="http://fonts.maateen.me/mukti/font.css" rel="stylesheet">
 ```
 
-#### IMPORT
+#### Or, IMPORT in CSS
 
 ```css
 <style>
@@ -308,7 +308,7 @@ To embed your selected fonts into a webpage, copy this code into the <head> of y
 <link href="http://fonts.maateen.me/siyam-rupali/font.css" rel="stylesheet">
 ```
 
-#### IMPORT
+#### Or, IMPORT in CSS
 
 ```css
 <style>
@@ -348,7 +348,7 @@ To embed your selected fonts into a webpage, copy this code into the <head> of y
 <link href="http://fonts.maateen.me/solaiman-lipi/font.css" rel="stylesheet">
 ```
 
-#### IMPORT
+#### Or, IMPORT in CSS
 
 ```css
 <style>
