@@ -378,7 +378,7 @@ Conversion to `eot`, `svg`, `woff` by [Maksudur Rahman Maateen](https://maateen.
 
 CSS rules for fonts written by [Maksudur Rahman Maateen](https://maateen.me/)
 
-Core `ttf` Fonts are developed by various developers, known developers are stated already. Respect and bow to them.
+Core `ttf` Fonts have been developed by various developers, known developers have been stated above already. We show respect and bow to them.
 
 Project HomePage: [http://fonts.maateen.me/](http://fonts.maateen.me/)
 
