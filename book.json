@@ -54,6 +54,10 @@
         "edit-link": {
             "base": "https://github.com/maateen/bangla-web-fonts/edit/master/",
             "label": "Edit This Page"
+        },
+        "forkmegithub": {
+            "url": "https://github.com/maateen/bangla-web-fonts",
+            "color": "gray"
         }
     }
 }
