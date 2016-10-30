@@ -9,7 +9,8 @@
         "meta",
         "anchors",
         "edit-link",
-        "create-issue"
+        "create-issue",
+        "forkmegithub"
     ],
     "pluginsConfig": {
         "prism": {
