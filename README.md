@@ -22,13 +22,13 @@ Font Source: cgimagine
 
 To embed your selected fonts into a webpage, copy this code into the <head> of your HTML document.
 
-#### STANDARD
+##### STANDARD
 
 ```css
 <link href="http://fonts.maateen.me/adorsho-lipi/font.css" rel="stylesheet">
 ```
 
-#### Or, IMPORT in CSS
+##### Or, IMPORT in CSS
 
 ```css
 <style>
@@ -62,13 +62,13 @@ AponaLohit is basically the Lohit font from Ekushey with additional hinting for 
 
 To embed your selected fonts into a webpage, copy this code into the <head> of your HTML document.
 
-#### STANDARD
+##### STANDARD
 
 ```css
 <link href="http://fonts.maateen.me/apona-lohit/font.css" rel="stylesheet">
 ```
 
-#### Or, IMPORT in CSS
+##### Or, IMPORT in CSS
 
 ```css
 <style>
@@ -102,13 +102,13 @@ Font Source: PfEd
 
 To embed your selected fonts into a webpage, copy this code into the <head> of your HTML document.
 
-#### STANDARD
+##### STANDARD
 
 ```css
 <link href="http://fonts.maateen.me/bangla/font.css" rel="stylesheet">
 ```
 
-#### Or, IMPORT in CSS
+##### Or, IMPORT in CSS
 
 ```css
 <style>
@@ -142,13 +142,13 @@ Developer: [Subrata Sen](http://www.subratasen.com/)
 
 To embed your selected fonts into a webpage, copy this code into the <head> of your HTML document.
 
-#### STANDARD
+##### STANDARD
 
 ```css
 <link href="http://fonts.maateen.me/bensen/font.css" rel="stylesheet">
 ```
 
-#### Or, IMPORT in CSS
+##### Or, IMPORT in CSS
 
 ```css
 <style>
@@ -182,13 +182,13 @@ Glyphs of Ekushey Lohit font has been taken from Lohit Bengali designed by Autom
 
 To embed your selected fonts into a webpage, copy this code into the <head> of your HTML document.
 
-#### STANDARD
+##### STANDARD
 
 ```css
 <link href="http://fonts.maateen.me/ekushey-lohit/font.css" rel="stylesheet">
 ```
 
-#### Or, IMPORT in CSS
+##### Or, IMPORT in CSS
 
 ```css
 <style>
@@ -222,13 +222,13 @@ Font designed by - Md. Tanbin Islam Siyam. Developed Under Avro Free Bangla Font
 
 To embed your selected fonts into a webpage, copy this code into the <head> of your HTML document.
 
-#### STANDARD
+##### STANDARD
 
 ```css
 <link href="http://fonts.maateen.me/kalpurush/font.css" rel="stylesheet">
 ```
 
-#### Or, IMPORT in CSS
+##### Or, IMPORT in CSS
 
 ```css
 <style>
@@ -262,13 +262,13 @@ Developed by Dr. Anirban Mitra. Font Source: [Free Bangla Font Project](http://w
 
 To embed your selected fonts into a webpage, copy this code into the <head> of your HTML document.
 
-#### STANDARD
+##### STANDARD
 
 ```css
 <link href="http://fonts.maateen.me/mukti/font.css" rel="stylesheet">
 ```
 
-#### Or, IMPORT in CSS
+##### Or, IMPORT in CSS
 
 ```css
 <style>
@@ -302,13 +302,13 @@ Font Hinted by - Md. Tanbin Islam Siyam. Modified version of Rupali Bangla font.
 
 To embed your selected fonts into a webpage, copy this code into the <head> of your HTML document.
 
-#### STANDARD
+##### STANDARD
 
 ```css
 <link href="http://fonts.maateen.me/siyam-rupali/font.css" rel="stylesheet">
 ```
 
-#### Or, IMPORT in CSS
+##### Or, IMPORT in CSS
 
 ```css
 <style>
@@ -342,13 +342,13 @@ SolaimanLipi is designed by Solaiman Karim. Later, Saif Hassan updated the font.
 
 To embed your selected fonts into a webpage, copy this code into the <head> of your HTML document.
 
-#### STANDARD
+##### STANDARD
 
 ```css
 <link href="http://fonts.maateen.me/solaiman-lipi/font.css" rel="stylesheet">
 ```
 
-#### Or, IMPORT in CSS
+##### Or, IMPORT in CSS
 
 ```css
 <style>
