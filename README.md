@@ -47,8 +47,8 @@ font-family: 'AdorshoLipi', sans-serif;
 #### Example
 
 ```css
-p { 
-    font-family: 'AdorshoLipi', Arial, sans-serif; 
+body {
+    font-family: 'AdorshoLipi', Arial, sans-serif !important;
 }
 ```
 
@@ -87,8 +87,8 @@ font-family: 'AponaLohit', sans-serif;
 #### Example
 
 ```css
-p { 
-    font-family: 'AponaLohit', Arial, sans-serif; 
+body {
+    font-family: 'AponaLohit', Arial, sans-serif !important;
 }
 ```
 
@@ -127,8 +127,8 @@ font-family: 'Bangla', sans-serif;
 #### Example
 
 ```css
-p { 
-    font-family: 'Bangla', Arial, sans-serif; 
+body {
+    font-family: 'Bangla', Arial, sans-serif !important;
 }
 ```
 
@@ -167,8 +167,8 @@ font-family: 'BenSen', sans-serif;
 #### Example
 
 ```css
-p { 
-    font-family: 'BenSen', Arial, sans-serif; 
+body {
+    font-family: 'BenSen', Arial, sans-serif !important;
 }
 ```
 
@@ -207,8 +207,8 @@ font-family: 'EkusheyLohit', sans-serif;
 #### Example
 
 ```css
-p { 
-    font-family: 'EkusheyLohit', Arial, sans-serif; 
+body {
+    font-family: 'EkusheyLohit', Arial, sans-serif !important;
 }
 ```
 
@@ -247,8 +247,8 @@ font-family: 'Kalpurush', sans-serif;
 #### Example
 
 ```css
-p { 
-    font-family: 'Kalpurush', Arial, sans-serif; 
+body {
+    font-family: 'Kalpurush', Arial, sans-serif !important;
 }
 ```
 
@@ -287,8 +287,8 @@ font-family: 'Mukti', sans-serif;
 #### Example
 
 ```css
-p { 
-    font-family: 'Mukti', Arial, sans-serif; 
+body {
+    font-family: 'Mukti', Arial, sans-serif !important;
 }
 ```
 
@@ -327,8 +327,8 @@ font-family: 'SiyamRupali', sans-serif;
 #### Example
 
 ```css
-p { 
-    font-family: 'SiyamRupali', Arial, sans-serif; 
+body {
+    font-family: 'SiyamRupali', Arial, sans-serif !important;
 }
 ```
 
@@ -367,8 +367,8 @@ font-family: 'SolaimanLipi', sans-serif;
 #### Example
 
 ```css
-p { 
-    font-family: 'SolaimanLipi', Arial, sans-serif; 
+body {
+    font-family: 'SolaimanLipi', Arial, sans-serif !important;
 }
 ```
 
