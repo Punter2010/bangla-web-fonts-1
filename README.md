@@ -162,6 +162,126 @@ body {
 }
 ```
 
+## CharuChandan3D
+
+![CharuChandan3D](images/charu-chandan-3d.jpg)
+
+Font Source: [Charu Chandan](http://www.charuchandan.com/)
+
+### Embed Font
+
+To embed your selected fonts into a webpage, copy this code into the <head> of your HTML document.
+
+##### STANDARD
+
+```css
+<link href="https://fonts.maateen.me/charu-chandan-3d/font.css" rel="stylesheet">
+```
+
+##### Or, IMPORT in CSS
+
+```css
+<style>
+@import url('https://fonts.maateen.me/charu-chandan-3d/font.css');
+</style>
+```
+
+### Specify in CSS
+
+Use the following CSS rules to specify these families:
+
+```css
+font-family: 'CharuChandan3D', sans-serif;
+```
+
+#### Example
+
+```css
+body {
+    font-family: 'CharuChandan3D', Arial, sans-serif !important;
+}
+```
+
+## CharuChandanHardStroke
+
+![CharuChandanHardStroke](images/charu-chandan-hard-stroke.jpg)
+
+Font Source: [Charu Chandan](http://www.charuchandan.com/)
+
+### Embed Font
+
+To embed your selected fonts into a webpage, copy this code into the <head> of your HTML document.
+
+##### STANDARD
+
+```css
+<link href="https://fonts.maateen.me/charu-chandan-hard-stroke/font.css" rel="stylesheet">
+```
+
+##### Or, IMPORT in CSS
+
+```css
+<style>
+@import url('https://fonts.maateen.me/charu-chandan-hard-stroke/font.css');
+</style>
+```
+
+### Specify in CSS
+
+Use the following CSS rules to specify these families:
+
+```css
+font-family: 'CharuChandanHardStroke', sans-serif;
+```
+
+#### Example
+
+```css
+body {
+    font-family: 'CharuChandanHardStroke', Arial, sans-serif !important;
+}
+```
+
+## CharukolaUltraLight
+
+![CharukolaUltraLight](images/charukola-ultra-light.jpg)
+
+Font Source: [Charu Chandan](http://www.charuchandan.com/)
+
+### Embed Font
+
+To embed your selected fonts into a webpage, copy this code into the <head> of your HTML document.
+
+##### STANDARD
+
+```css
+<link href="https://fonts.maateen.me/charukola-ultra-light/font.css" rel="stylesheet">
+```
+
+##### Or, IMPORT in CSS
+
+```css
+<style>
+@import url('https://fonts.maateen.me/charukola-ultra-light/font.css');
+</style>
+```
+
+### Specify in CSS
+
+Use the following CSS rules to specify these families:
+
+```css
+font-family: 'CharukolaUltraLight', sans-serif;
+```
+
+#### Example
+
+```css
+body {
+    font-family: 'CharukolaUltraLight', Arial, sans-serif !important;
+}
+```
+
 ## EkusheyLohit
 
 ![EkusheyLohit](images/ekushey-lohit.jpg)
