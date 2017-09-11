@@ -46,7 +46,7 @@ body {
 
 ![AponaLohit](images/aponalohit.jpg)
 
-AponaLohit is basically the Lohit font from Ekushey with additional hinting for better look on screen. This is some wthat Unicode equivalent of popular Boishakhi font. TrueType hintings have been initiated by Ershadul Haq and later improved by Alamigr Mohammed.
+AponaLohit is basically the Lohit font from Ekushey with additional hinting for better look on screen. This is some wthat Unicode equivalent of popular Boishakhi font. TrueType hintings have been initiated by Ershadul Haq and later improved by Alamgir Mohammed.
 
 ### Embed Font
 
